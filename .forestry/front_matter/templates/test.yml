@@ -12,4 +12,4 @@ fields:
     required: false
   label: test
 pages:
-- content/posts/hello-world.md
+- content/post/hellow-world.md
