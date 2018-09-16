@@ -1,0 +1,13 @@
+---
+label: test
+hide_body: false
+is_partial: false
+fields:
+- type: text
+- type: text
+  name: test
+  description: test
+  hidden: false
+  config:
+    required: false
+  label: test
