@@ -11,5 +11,3 @@ fields:
   config:
     required: false
   label: test
-pages:
-- content/posts/test.md
