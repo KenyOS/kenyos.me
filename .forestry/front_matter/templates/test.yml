@@ -1,16 +1,14 @@
 ---
-label: test
+label: one
 hide_body: false
 is_partial: false
 fields:
 - type: text
-- type: text
-  name: test
-  description: test
-  hidden: false
-  config:
-    required: false
-  label: test
+  name: title
+  label: Title
+- type: textarea
+  name: text
+  label: text
 pages:
 - content/post/insightful-podcasts.md
 - content/post/hello-world.md
