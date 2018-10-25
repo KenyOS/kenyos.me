@@ -12,4 +12,5 @@ fields:
     required: false
   label: test
 pages:
+- content/post/insightful-podcasts.md
 - content/post/hello-world.md
